@@ -4,6 +4,7 @@ version = "1.0.0"
 authors = ["Ashley Williams <ashley666ashley@gmail.com>"]
 license = "MIT"
 repository = "https://github.com/ashleygwilliams/rust-pick-one"
+description = "Picks one random element from an array"
 
 [dependencies]
 rand = "0.3"
