@@ -1,6 +1,6 @@
 [package]
 name = "pick-one"
-version = "1.0.0"
+version = "1.0.1"
 authors = ["Ashley Williams <ashley666ashley@gmail.com>"]
 license = "MIT"
 repository = "https://github.com/ashleygwilliams/rust-pick-one"
